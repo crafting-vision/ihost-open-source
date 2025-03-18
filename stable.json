@@ -33,7 +33,7 @@
         "rpi3-64": "14.2",
         "rpi4": "14.2",
         "rpi4-64": "14.2",
-        "rpi5-64": "14.2",
+        "rpi5-64": "14.3",
         "yellow": "14.2",
         "green": "14.2",
         "tinker": "14.2",
@@ -66,7 +66,7 @@
     "observer": "2023.06.0",
     "image": {
         "core": "homeassistant/{machine}-homeassistant",
-        "supervisor": "homeassistant/{arch}-hassio-supervisor",
+        "supervisor": "oliverc7/home-assistant-supervisor",
         "cli": "homeassistant/{arch}-hassio-cli",
         "audio": "homeassistant/{arch}-hassio-audio",
         "dns": "homeassistant/{arch}-hassio-dns",
@@ -75,7 +75,7 @@
     },
     "images": {
         "core": "ghcr.io/home-assistant/{machine}-homeassistant",
-        "supervisor": "ghcr.io/home-assistant/{arch}-hassio-supervisor",
+        "supervisor": "oliverc7/home-assistant-supervisor",
         "cli": "ghcr.io/home-assistant/{arch}-hassio-cli",
         "audio": "ghcr.io/home-assistant/{arch}-hassio-audio",
         "dns": "ghcr.io/home-assistant/{arch}-hassio-dns",
