@@ -1,6 +1,6 @@
 {
     "channel": "stable",
-    "supervisor": "2025.03.2",
+    "supervisor": "2025.03.3",
     "homeassistant": {
         "default": "2025.3.2",
         "qemux86": "2025.3.2",
@@ -33,7 +33,7 @@
         "rpi3-64": "14.2",
         "rpi4": "14.2",
         "rpi4-64": "14.2",
-        "rpi5-64": "15.0",
+        "rpi5-64": "15.1",
         "yellow": "14.2",
         "green": "14.2",
         "tinker": "14.2",
